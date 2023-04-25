@@ -27,4 +27,3 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Code-Zeal&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-![](https://stats.justsong.cn/api/github?username=Code-Zeal)![](https://stats.justsong.cn/api/zhihu?username=Code-Zeal)
