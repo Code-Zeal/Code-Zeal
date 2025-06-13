@@ -2,7 +2,7 @@
 
 - 📫 codeseazeal@gmail.com
 - :page_with_curl: https://www.linkedin.com/in/code-zeal/
-- 💻 https://codigomarce.vercel.app/
+- 💻 https://marcelogarcia.vercel.app/
 
 # 🛠 Stack Tecnológico
 
